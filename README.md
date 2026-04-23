@@ -43,7 +43,7 @@ Other Linux distros and macOS are not yet officially supported (you can still bu
 1. Go to [Releases](https://github.com/M4RiXX0/cutty/releases)
 2. Download the latest `cutty.deb`
 3. Install
-4. Run apt install ffmpeg
+4. Run `apt install ffmpeg`
 
 Test it:
 
