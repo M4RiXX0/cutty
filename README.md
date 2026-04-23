@@ -17,6 +17,7 @@ Quickly get video file info and convert it – no fuss
 
 **cutty itself:**
 - **Windows** → standalone `.exe` (no Python required)
+- **Windows** → standalone `.deb` (no Python required)
 
 Other Linux distros and macOS are not yet officially supported (you can still build from source if needed).
 
@@ -24,7 +25,7 @@ Other Linux distros and macOS are not yet officially supported (you can still bu
 
 ### Windows
 
-1. Go to [Releases](https://github.com/YOUR_USERNAME/cutty/releases)
+1. Go to [Releases](https://github.com/M4RiXX0/cutty/releases)
 2. Download the latest `cutty.exe`
 3. Move it to any folder (recommended: `C:\Tools\` or `C:\Program Files\cutty\`)
 4. **Add that folder to your PATH**:
@@ -36,6 +37,13 @@ Other Linux distros and macOS are not yet officially supported (you can still bu
    - Download from https://www.gyan.dev/ffmpeg/builds/ → **ffmpeg-release-essentials.zip** (recommended)
    - Extract to e.g. `C:\ffmpeg\`
    - Add `C:\ffmpeg\bin` to PATH (same way as above)
+
+### Debian / Ubuntu / Linux Mint
+
+1. Go to [Releases](https://github.com/M4RiXX0/cutty/releases)
+2. Download the latest `cutty.deb`
+3. Install
+4. Run apt install ffmpeg
 
 Test it:
 
