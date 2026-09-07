@@ -41,7 +41,7 @@ Download the latest release for your operating system from the **[GitHub Release
 1. Download the `.deb` package (`cutty_*_amd64.deb`).
 2. Install it using `apt` (this automatically installs required dependencies):
    ```bash
-   sudo apt install ./cutty_1.0.0_amd64.deb
+   sudo apt install ./cutty_v1.0.0_amd64.deb
    ```
 
 ### 🪟 Windows
